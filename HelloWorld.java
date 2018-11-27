@@ -7,5 +7,7 @@ public class HelloWorld{
 
 	System.out.println("Hello for the final time");
 
+	//GUhigaejop
+	System.out.println("Goodbye world");
 	}
 }
